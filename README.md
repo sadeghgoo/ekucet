@@ -1,5 +1,3 @@
-## I am Erkam
-
 ---
 
 <a href="https://github.com/ekucet">
